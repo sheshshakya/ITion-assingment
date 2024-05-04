@@ -1,4 +1,7 @@
-![alt text](http://url/to/img-1.png)
+![img-1](https://github.com/sheshshakya/ITion-assingment/assets/104320937/d277043c-7768-4888-8c34-dc6ad0c9f551)
+![img-2](https://github.com/sheshshakya/ITion-assingment/assets/104320937/f5ac8e83-65d7-4f6f-bb01-34cc759c6315)
+
+
 
 # Getting Started with Create React App
 
